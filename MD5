@@ -1,0 +1,17 @@
+5a6bf62b215a1db10b166e84583c0c21 *DESCRIPTION
+c72ca47a203a43112f421ae4d9d4c140 *NAMESPACE
+6686244035a7c987f668722cbe3247d6 *NEWS.md
+3152d1ca8e27b1dcae8aef776d15e5f1 *R/RcppExports.R
+12ee4191ce35477e16dfac63e1443384 *R/main.R
+2a99ff2c47efe889ca18a25cf3d678a7 *man/SAGMM.Rd
+2e908f5da9920428746f3918e3e78314 *man/SAGMMFit.Rd
+e96a3bfd566a28e6c0d86308ff4da726 *man/gainFactors.Rd
+e576bf32444845a0aaf57c0ae5ba83bb *man/generateSimData.Rd
+ef3e453743acd8ecad7120f39cb3e9f0 *src/Makevars
+ec965e0b76f3e162764d8b27a0def6bf *src/Makevars.win
+a41f22c13fd02986c52ec66ae32baf11 *src/RcppExports.cpp
+9910e08938717f0d6ffe6e45dfe505b0 *src/SAGMM.cpp
+32a28fdb429cfe6e169aa0e1d12e7087 *tests/testthat.R
+d64bddbe49d2dbbe33536ce2e1547404 *tests/testthat/Rplots.pdf
+de51fd5e5c0e975eeb4753ff5c8fcdff *tests/testthat/test-R.R
+fe19901da98c4f96619b34794769eeac *tests/testthat/test-cpp.R
